@@ -4,8 +4,8 @@
 
 namespace HelloWCF
 {    
-    [ServiceContract]
-    interface IContract//Златая
+    [ServiceContract]//Лукоморье и дуб
+    interface IContract//Златая 
     {
         [OperationContract]
         string Say(string input);

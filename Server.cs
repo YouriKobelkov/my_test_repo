@@ -5,7 +5,7 @@ using System.ServiceModel;
 
 namespace HelloWCF
 {      
-    class Server
+    class Server         //TODO Что-то
     {        
         static void Main()
         {

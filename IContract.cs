@@ -4,7 +4,7 @@
 
 namespace HelloWCF
 {    
-    [ServiceContract]
+    [ServiceContract]//У Лукоморья дуб зеленый
     interface IContract
     {
         [OperationContract]

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2010 test edit
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "HelloWCF\Server.csproj", "{AE0B58CC-9E2A-4471-B92C-C2D57ABBB9EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{7EE64854-700E-49D6-8D85-4E2E0B8F7A12}"

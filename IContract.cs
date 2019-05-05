@@ -4,7 +4,7 @@
 
 namespace HelloWCF
 {    
-    [ServiceContract]
+    [ServiceContract]//Лукоморье и дуб
     interface IContract//Златая цепь
     {
         [OperationContract]
